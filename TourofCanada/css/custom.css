@@ -1,0 +1,50 @@
+a {
+    color: aliceblue;
+}
+
+.jumbotron {
+    background-color: whitegray;
+    background-image: url(../imgs/alberta-2297204__340.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+
+}
+
+.jumbotron2 {
+    background-color: whitegray;
+    background-image: url(../imgs/brown-bear-423202_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+
+}
+
+.jumbotron3 {
+    background-color: whitegray;
+    background-image: url(../imgs/brown-bear-423202_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    margin-bottom: 20px;
+
+}
+
+.jumbotron4 {
+    background-color: whitegray;
+    background-image: url(../imgs/HAPPYCANADA.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    margin-bottom: 20px;
+
+}
+
+h2 {
+    background-color: red;
+    color: aliceblue;
+}
